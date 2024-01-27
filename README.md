@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔬 I'm Ishnoor, a high school student who loves STEM
+- 🧑‍💻 I’m currently learning HTML / CSS
+- 🤖 As a ranked chess player, I love exploring AI Chess Engines like StockFish and AlphaZero
+- 🎲 I'm interested in business and economics
+- 🧩 Check out my hackathon, USACO, and coursework projects below
+  
 <!--
 **ishnoorchandi/ishnoorchandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
