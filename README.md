@@ -3,7 +3,7 @@
 - 🔬 I'm Ishnoor, a high school student who loves STEM
 - 🧑‍💻 I’m currently learning HTML / CSS
 - 🤖 As a ranked chess player, I enjoy exploring AI Chess Engines like StockFish and AlphaZero
-- 🎲 I'm interested in business and economics
+- 🎲 Interested in business and economics
 - 🧩 Check out my hackathon, USACO, and coursework projects below
   
 <!--
